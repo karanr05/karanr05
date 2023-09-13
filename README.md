@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Full Stack Web-developer from India</h3>
 
-- 🔭 I’m currently working on [RedBus-Clone](https://backend-api-r2s4.onrender.com)
+- 🔭 I’m currently working on [RedBus-Clone Project](https://backend-api-r2s4.onrender.com)
 
 - 👯 I’m looking to collaborate on **I'm always looking for opportunities to collaborate on projects that can make a positive impact. I'm open to working with other web development technologies and frameworks.**
 
