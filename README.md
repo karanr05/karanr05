@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on  projects that can make a positive impact. I'm open to working with other web development technologies and frameworks.
 
-- 💬 Ask me about the MERN stack, and I'd be happy to share my knowledge and experience.**
+- 💬 Ask me about the MERN stack, and I'd be happy to share my knowledge and experience.
 
-- 📫 How to reach me **karanramalingam5@gmail.com**
+- 📫 How to reach me karanramalingam5@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-cfPr9uk5nfDV3N-fxyu0MreN_RFIcdQ/view?usp=sharing](https://drive.google.com/file/d/1-cfPr9uk5nfDV3N-fxyu0MreN_RFIcdQ/view?usp=sharing)
 
