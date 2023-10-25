@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RedBus-Clone Project](https://backend-api-r2s4.onrender.com)
 
-- 👯 I’m looking to collaborate on  projects that can make a positive impact. I'm open to working with other web development technologies and frameworks.**
+- 👯 I’m looking to collaborate on  projects that can make a positive impact. I'm open to working with other web development technologies and frameworks.
 
 - 💬 Ask me about the MERN stack, and I'd be happy to share my knowledge and experience.**
 
